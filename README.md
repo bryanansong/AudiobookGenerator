@@ -1,2 +1,3 @@
 # AudiobookGenerator
-Converts pdfs to audiobooks
+Text-to-Speech converter.
+This program takes any PDF containing text and converts it to an audiobook.
